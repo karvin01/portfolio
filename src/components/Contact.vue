@@ -31,7 +31,7 @@
             <label class="block text-main text-xs uppercase mb-3 ml-1 tracking-widest">// Message_Content</label>
             <textarea
               rows="5"
-              placeholder="System message..."
+              placeholder="Message..."
               class="w-full bg-zinc-950 border border-zinc-800 p-4 text-white outline-none focus:border-main/60 transition-all duration-300 resize-none"
               style="clip-path: polygon(0 0, 100% 0, 100% 85%, calc(100% - 25px) 100%, 0 100%);"
             ></textarea>
@@ -40,7 +40,7 @@
           <div class="pt-4">
             <button
               type="submit"
-              class="bg-main text-zinc-950 px-12 py-4 font-black uppercase text-xs tracking-[0.3em] hover:bg-white transition-all duration-300 shadow-[0_0_20px_rgba(6,182,212,0.3)]"
+              class="cursor-pointer bg-main text-zinc-950 px-12 py-4 font-black uppercase text-xs tracking-[0.3em] hover:bg-white transition-all duration-300 shadow-[0_0_20px_rgba(6,182,212,0.3)]"
               style="clip-path: polygon(15px 0, 100% 0, 100% calc(100% - 15px), calc(100% - 15px) 100%, 0 100%, 0 15px);"
             >
               Send

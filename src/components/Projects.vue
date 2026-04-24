@@ -70,7 +70,7 @@ const projects = [
     title: "Project_Alpha",
     desc: "Every expert was once a beginner, and this was my start. Working with just HTML and CSS, I built this project and discovered a genuine love for web development. It’s a reminder of where I began and the spark that keeps me coding today.",
     tech: ["HTML", "CSS"],
-    img: "/src/assets/images/Recipe-page.jpeg",
+    img: "/images/Recipe-page.jpeg",
     link: "https://github.com/karvin01/recipe-page-mandatory",
     linkText: "View_Github"
   },
@@ -80,7 +80,7 @@ const projects = [
     title: "Brothers_Lionheart",
     desc: "I developed the project’s frontend foundation, building a home page with reusable CSS patterns that served as a template for the entire team. I also implemented the responsive design, ensuring a seamless experience across mobile, tablet, and desktop devices.",
     tech: ["HTML", "CSS"],
-    img: "/src/assets/images/Brothers-lionheart.jpeg",
+    img: "/images/Brothers-lionheart.jpeg",
     link: "https://github.com/karvin01/Semester-project-webpage",
     linkText: "View_Github"
   },
@@ -90,7 +90,7 @@ const projects = [
     title: "CO2_saving_app",
     desc: "I collaborated on the UX/UI strategy for a green lifestyle app that gamifies sustainability through daily challenges. I focused on creating an intuitive user journey and a clean interface that motivates users to build eco-friendly habits. My work ensured the design was both visually engaging and logically structured to encourage daily engagement.",
     tech: ["FIGMA"],
-    img: "/src/assets/images/UX-CO2-app.jpg",
+    img: "/images/UX-CO2-app.jpg",
     link: "https://www.figma.com/design/flLyxAIjjM2iRei4FaaZsl/UX-CO2-app?node-id=0-1&t=e4ld0Z6m4sOXCx4N-0",
     linkText: "View_Figma"
   },
@@ -100,17 +100,17 @@ const projects = [
     title: "Business_card",
     desc: "I designed a custom business card featuring a minimalistic logo based on my initials. The goal was to establish a strong personal brand by maintaining visual coherency with my portfolio’s aesthetic. This project allowed me to focus on typography, layout, and the power of a 'less is more' design philosophy.",
     tech: ["INDESIGN", "ILLUSTRATOR"],
-    img: "/src/assets/images/businesscard.jpg",
-    link: "/src/assets/pdf/Business_card.pdf",
+    img: "/images/businesscard.jpg",
+    link: "/pdf/Business_card.pdf",
     linkText: "View_PDF"
   },
   {
     id: 5,
     tag: "05 // DEVELOPMENT",
-    title: "Portfolio_from_scratch",
+    title: "Portfolio",
     desc: "This is my most advanced project to date and the first I’ve built entirely from scratch. It started as a custom design in Figma, which I then built out, using AI to help refine the code while I made sure the design stayed exactly how I wanted it. My goal was to capture a \"nerdy\" yet professional vibe that truly represents me as a frontend developer.",
     tech: ["VUE_JS", "HTML", "TAILWIND", "FIGMA"],
-    img: "/src/assets/images/portfolio_website.jpeg",
+    img: "/images/portfolio_website.jpeg",
     link: "https://github.com/karvin01/portfolio",
     linkText: "View_Github"
   }

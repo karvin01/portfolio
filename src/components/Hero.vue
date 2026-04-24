@@ -18,7 +18,7 @@
       <div class="relative group">
         <div class="absolute -inset-1 bg-main rounded-full opacity-25 blur-xl group-hover:opacity-40 transition-opacity"></div>
         <img
-          src="/src/assets/images/CV_profilepic_final.jpg"
+          src="/images/CV_profilepic_final.jpg"
           alt="Karel Vinický"
           class="relative w-72 h-72 md:w-96 md:h-96 rounded-full object-cover border-4 border-zinc-800 shadow-2xl"
         />

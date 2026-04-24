@@ -31,8 +31,7 @@
           <div class="relative group">
             <div class="absolute -inset-2 border border-cyan-500/10 z-0"></div>
 
-            <div class="relative z-10 aspect-video bg-zinc-950 border border-zinc-800 shadow-2xl overflow-hidden"
-                style="clip-path: polygon(0 0, 100% 0, 100% 85%, 85% 100%, 0 100%);">
+            <div class="relative z-10 aspect-video bg-zinc-950 border border-zinc-800 shadow-2xl overflow-hidden">
 
               <!-- Vysvětlení logiky níže:
               - Pokud video NEHRAJE (!isPlaying), je černobílé (grayscale).
